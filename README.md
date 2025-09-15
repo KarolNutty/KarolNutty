@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Karoline Silva (@KarolNutty)!
+# 👋 Olá, eu sou Karoline (@KarolNutty)!
 
 Estudante de Engenharia de Software com foco em Inteligência Artificial aplicada, automações e desenvolvimento backend. Apaixonada por unir dados, automação e IA para criar soluções práticas de alto impacto. Busco crescer como **AI Developer**, explorando tanto o código quanto ferramentas low-code/no-code para entregar valor de forma eficiente!
 
