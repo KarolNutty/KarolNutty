@@ -19,7 +19,7 @@ Estudante de Engenharia de Software com foco em Inteligência Artificial aplicad
 - [Petfy API](https://github.com/KarolNutty/Petfy-API): API de pets feita com FastAPI e testes automatizados
 - **IA aplicada com n8n & LangChain:** Automação inteligente com modelos de linguagem
 - **Pipelines de dados para análise:** Integrações e dashboards em Supabase & Google Sheets
-- [Beauty Glow Store](https://github.com/KarolNutty/Beauty-Glow): Site de vendas de produtos de beleza
+- [Chatbot-IA](https://github.com/KarolNutty/Chatbot-Project): Chatbot com IA Gratuita
 
 Confira mais projetos no meu [GitHub](https://github.com/KarolNutty)!
 
