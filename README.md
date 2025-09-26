@@ -1,8 +1,8 @@
-# 🤖 Karoline Silva | AI Developer & Automation Specialist
+# 🤖 Karoline Silva | AI Developer & Python Enthusiast
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Developer+%26+Automation+Expert;Python+%7C+LangChain+%7C+FastAPI;Building+Intelligent+Solutions;Transforming+Ideas+into+Impact)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=AI+Developer+%26+Python+Enthusiast;Building+Smart+Solutions;LangChain+%7C+FastAPI+%7C+n8n;Transforming+Ideas+into+Code)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,11 +10,12 @@
 
 ## 🎯 **Sobre Mim**
 
-> **Transformando dados em inteligência, automação em eficiência**
+> **Criando soluções inteligentes com Python, IA e automação**
 
-🎓 **Engenheira de Software** especializada em **Inteligência Artificial** e **Automação**  
-🚀 Apaixonada por criar soluções que unem **IA**, **automação** e **dados** para gerar **impacto real**  
-💡 Explorando o futuro da tecnologia com **Python**, **LangChain**, **FastAPI** e **ferramentas no-code**  
+🎓 **Engenheira de Software** em formação, apaixonada por **Inteligência Artificial** e **automação**  
+🚀 Explorando as infinitas possibilidades da **IA aplicada** para resolver problemas reais  
+💡 Construindo projetos com **Python**, **LangChain**, **FastAPI** e ferramentas **no-code/low-code**  
+🔥 Sempre testando novas tecnologias e transformando ideias em código  
 
 ---
 
@@ -100,9 +101,9 @@ class KarolineSkills:
             "Clean Architecture", "SOLID Principles", "Automated Testing"
         ]
         
-        self.mission = "Transformar ideias em soluções inteligentes e automatizadas"
+        self.mission = "Transformar curiosidade em código e ideias em soluções"
 
-# Criando impacto através da tecnologia 🚀
+# Explorando as possibilidades da IA 🚀
 karoline = KarolineSkills()
 ```
 
@@ -146,7 +147,7 @@ karoline = KarolineSkills()
 
 <div align="center">
 
-### ⚡ **"Code. Automate. Innovate. Repeat."** ⚡
+### ⚡ **"Learn. Build. Automate. Innovate."** ⚡
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KarolNutty&color=00D9FF&style=for-the-badge)
 
