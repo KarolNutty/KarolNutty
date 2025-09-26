@@ -1,4 +1,4 @@
-# 🤖 Karoline Silva | AI Developera & Python Enthusiast
+# 🤖 Karoline Silva | AI Developer & Python Enthusiast
 
 <div align="center">
   
