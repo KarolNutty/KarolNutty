@@ -1,8 +1,8 @@
-# 🎨 Karoline Silva | Frontend Developer & Vue.js Specialist
+# 🎨 Karoline Silva | Frontend Developer
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=42D392&center=true&vCenter=true&width=600&lines=Frontend+Developer+%26+Vue.js+Specialist;Creating+Beautiful+User+Experiences;Vue.js+%7C+Nuxt+%7C+TypeScript;Transforming+Designs+into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=42D392&center=true&vCenter=true&width=600&lines=Frontend+Developer;Creating+Beautiful+User+Experiences;Vue.js+%7C+React+%7C+TypeScript;Transforming+Designs+into+Reality)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,12 +10,12 @@
 
 ## 🎯 **Sobre Mim**
 
-> **Criando experiências visuais incríveis com Vue.js e tecnologias modernas**
+> **Criando experiências visuais com Vue.js, React e tecnologias modernas**
 
 🎓 **Engenheira de Software** em formação, apaixonada por **Frontend Development** e **UX/UI**  
-🚀 Explorando as infinitas possibilidades do **Vue.js** para criar interfaces intuitivas e performáticas  
-💡 Construindo projetos com **Vue 3**, **Nuxt**, **TypeScript** e **design systems**  
-🔥 Sempre testando novas tecnologias e transformando designs em código pixel-perfect  
+🚀 Desenvolvendo interfaces intuitivas e responsivas com **Vue.js** e **React**  
+💡 Construindo projetos com **Vue 3**, **React**, **TypeScript** e **Node.js**  
+🔥 Sempre aprendendo novas tecnologias e transformando designs em código  
 
 ---
 
@@ -39,6 +39,11 @@
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
+
+### **⚙️ Backend & APIs**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **📝 Languages & Core**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -77,10 +82,10 @@
 
 | 🎯 **Projeto** | 📋 **Descrição** | 🛠️ **Tech Stack** | 🔗 **Link** |
 |:-------------|:----------------|:-----------------|:----------|
-| **💚 Vue Dashboard** | Dashboard admin moderno e responsivo | `Vue 3` `Composition API` `Tailwind` `Pinia` | [🔗 Ver](https://github.com/KarolNutty/vue-dashboard) |
-| **🎬 Movie App** | App de filmes com TMDB API | `Nuxt 3` `TypeScript` `Tailwind` | [🔗 Ver](https://github.com/KarolNutty/movie-app) |
-| **🛍️ E-commerce Vue** | Loja virtual completa com carrinho | `Vue 3` `Pinia` `Stripe` `Vuetify` | [🔗 Ver](https://github.com/KarolNutty/ecommerce-vue) |
-| **📱 Component Library** | Design System reutilizável | `Vue 3` `Storybook` `TypeScript` | 🔒 Privado |
+| **🛍️ Beauty Glow** | Loja virtual de cosméticos | `HTML` `CSS` `JavaScript` | [🔗 Ver](https://github.com/KarolNutty/Beauty-Glow) |
+| **🐾 API de Pets** | API RESTful para gerenciamento de pets | `Node.js` `Express` `JavaScript` | [🔗 Ver](https://github.com/KarolNutty/api-de-pets) |
+| **🤖 BotGroqAI** | ChatBot inteligente com Groq AI + Streamlit | `Python` `Groq` `Streamlit` | [🔗 Ver](https://github.com/KarolNutty/BotGroqAI) |
+| **🎭 Analisador de Sentimentos** | IA para análise emocional de textos | `Python` `Tkinter` `NLP` | [🔗 Ver](https://github.com/KarolNutty/Analise_de_Sentimentos) |
 
 </div>
 
@@ -98,38 +103,36 @@
 
 ---
 
-## 🎯 **Especialidades**
+## 🎯 **Habilidades**
 
 ```javascript
 class KarolineSkills {
   constructor() {
-    this.vueExpertise = [
-      "Vue 3 Composition API", "Nuxt 3 Applications", 
-      "State Management (Pinia)", "Vue Router", "Custom Directives",
-      "Composables & Hooks", "Performance Optimization"
+    this.vueKnowledge = [
+      "Vue 3 Composition API", "Vue Router", "State Management (Pinia)",
+      "Componentes Reutilizáveis", "Diretivas Customizadas"
     ]
     
-    this.reactSkills = [
-      "React Hooks", "Next.js SSR/SSG", "Redux/Context API",
-      "React Router", "Custom Hooks", "React Query"
+    this.reactKnowledge = [
+      "React Hooks", "React Router", "Context API",
+      "Componentes Funcionais"
     ]
     
-    this.uiUxSkills = [
-      "Responsive Design", "Mobile-First Approach", "Tailwind CSS",
-      "Component Libraries", "Design Systems", "Accessibility (a11y)",
-      "CSS Animations", "Micro-interactions"
+    this.backendSkills = [
+      "Node.js", "Express", "APIs RESTful", 
+      "Integração Frontend/Backend"
     ]
     
-    this.bestPractices = [
-      "Clean Code", "Component Architecture", "Performance Optimization",
-      "SEO", "PWA", "TypeScript", "Unit & E2E Testing"
+    this.uiSkills = [
+      "Responsive Design", "CSS/SASS", "Tailwind CSS",
+      "HTML Semântico", "Acessibilidade Básica"
     ]
     
-    this.mission = "Transformar designs em experiências interativas memoráveis"
+    this.currentFocus = "Construindo interfaces funcionais e aprendendo sempre"
   }
 }
 
-// Criando interfaces que os usuários amam 💚
+// Em constante evolução 💚
 const karoline = new KarolineSkills()
 ```
 
@@ -139,9 +142,9 @@ const karoline = new KarolineSkills()
 
 <div align="center">
 
-### 💡 **"Construindo o futuro através de interfaces intuitivas"**
+### 💡 **"Construindo interfaces funcionais e aprendendo todos os dias"**
 
-> Acredito que a verdadeira inovação no frontend acontece quando unimos **design impecável**, **performance otimizada** e **código limpo** para criar experiências que encantam. Meu objetivo é dominar o ecossistema **Vue.js** (minha paixão!) e também **React**, sempre entregando interfaces **acessíveis**, **responsivas** e com **UX excepcional**.
+> Estou em constante evolução no mundo do desenvolvimento frontend. Trabalho principalmente com **Vue.js** (onde tenho mais experiência) e também com **React**. Meu objetivo é criar interfaces **responsivas**, **funcionais** e com **boa experiência de usuário**, sempre aprendendo e melhorando minhas habilidades em cada projeto.
 
 </div>
 
@@ -149,27 +152,27 @@ const karoline = new KarolineSkills()
 
 ## 📚 **Aprendendo Atualmente**
 
-- 🎨 **Advanced Vue 3 Patterns** e Composables reutilizáveis
-- ⚡ **Nuxt 3** - Server Components e Edge Rendering
-- 🎭 **Motion Design** com Framer Motion e GSAP
-- ♿ **Web Accessibility** (WCAG 2.1)
-- 🧪 **Advanced Testing** com Vitest e Playwright
-- 📦 **Microfrontends** Architecture
+- 💚 **Vue 3** - Aprofundando na Composition API e Composables
+- ⚛️ **React** - Expandindo conhecimento em Hooks e Context API
+- 🎨 **Tailwind CSS** - Estilização moderna e responsiva
+- 📦 **TypeScript** - Tipagem estática para JavaScript
+- 🔄 **APIs REST** - Integração frontend/backend
+- ♿ **Acessibilidade Web** - Interfaces mais inclusivas
 
 ---
 
-## 🏆 **Meu Approach de Desenvolvimento**
+## 🏆 **Minha Abordagem**
 
 <div align="center">
 
-| 🎯 **Princípio** | 📝 **Descrição** |
+| 🎯 **Foco** | 📝 **Descrição** |
 |:----------------|:----------------|
-| **💚 Vue First** | Vue.js é minha primeira escolha, mas sou flexível |
-| **📱 Mobile First** | Design responsivo desde o início |
-| **♿ Accessibility** | Interfaces inclusivas para todos |
-| **⚡ Performance** | Otimização e carregamento rápido |
-| **🧪 Testing** | Código testado e confiável |
-| **🎨 Design Fidelity** | Pixel-perfect implementation |
+| **💚 Vue.js** | Mais experiência, primeira opção |
+| **⚛️ React** | Conhecimento sólido, segunda opção |
+| **📱 Responsivo** | Design que funciona em todos os dispositivos |
+| **🎨 UI/UX** | Interfaces limpas e intuitivas |
+| **🔄 Backend** | Node.js e APIs REST |
+| **📚 Aprendizado** | Sempre buscando evoluir |
 
 </div>
 
@@ -184,7 +187,7 @@ const karoline = new KarolineSkills()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-42D392?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app)
 
-**💬 Aberta para colaborações em projetos frontend, Vue.js e inovação!**
+**💬 Aberta para colaborações e oportunidades de aprendizado!**
 
 </div>
 
@@ -192,7 +195,7 @@ const karoline = new KarolineSkills()
 
 <div align="center">
 
-### ⚡ **"Design. Code. Test. Ship."** ⚡
+### ⚡ **"Learn. Code. Grow."** ⚡
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KarolNutty&color=42D392&style=for-the-badge)
 
