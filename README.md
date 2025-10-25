@@ -85,7 +85,7 @@
 | **🛍️ Beauty Glow** | Loja virtual de cosméticos | `HTML` `CSS` `JavaScript` | [🔗 Ver](https://github.com/KarolNutty/Beauty-Glow) |
 | **🐾 API de Pets** | API RESTful para gerenciamento de pets | `Node.js` `Express` `JavaScript` | [🔗 Ver](https://github.com/KarolNutty/api-de-pets) |
 | **🤖 BotGroqAI** | ChatBot inteligente com Groq AI + Streamlit | `Python` `Groq` `Streamlit` | [🔗 Ver](https://github.com/KarolNutty/BotGroqAI) |
-| **🎭 Analisador de Sentimentos** | IA para análise emocional de textos | `Python` `Tkinter` `NLP` | [🔗 Ver](https://github.com/KarolNutty/Analise_de_Sentimentos) |
+| **🌱 Ecotrack** | istema completo para monitoramento e gestão de coleta de resíduos recicláveis. | `JavaScript` `HTML5` `CSS3` `Node.js` | [🔗 Ver](https://github.com/KarolNutty/ecotrack) |
 
 </div>
 
