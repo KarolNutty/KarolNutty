@@ -1,8 +1,8 @@
-# 🎨 Karoline Silva | Frontend Developer
+# Karoline Silva | Fullstack Developer
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=42D392&center=true&vCenter=true&width=600&lines=Frontend+Developer;Creating+Beautiful+User+Experiences;Vue.js+%7C+React+%7C+TypeScript;Transforming+Designs+into+Reality)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=42D392&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Frontend+%7C+Backend+%7C+QA;Vue.js+%7C+React+%7C+Node.js;Building+Complete+Solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,67 +10,55 @@
 
 ## 🎯 **Sobre Mim**
 
-> **Criando experiências visuais com Vue.js, React e tecnologias modernas**
+> **Desenvolvendo soluções completas do frontend ao backend, com foco em qualidade**
 
-🎓 **Engenheira de Software** em formação, apaixonada por **Frontend Development** e **UX/UI**  
-🚀 Desenvolvendo interfaces intuitivas e responsivas com **Vue.js** e **React**  
-💡 Construindo projetos com **Vue 3**, **React**, **TypeScript** e **Node.js**  
-🔥 Sempre aprendendo novas tecnologias e transformando designs em código  
+🎓 **Engenheira de Software** em formação  
+💻 Desenvolvendo aplicações fullstack com **Vue.js**, **React**, **Node.js** e **Python**  
+🧪 Experiência em **Quality Assurance** com testes automatizados e de APIs  
+🚀 Trabalhando com metodologias ágeis e boas práticas de desenvolvimento  
 
 ---
 
-## 💻 **Tech Stack & Skills**
+## 💻 **Tech Stack**
 
 <div align="center">
 
-### **💚 Vue.js Ecosystem**
+### **🎨 Frontend**
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white)
-![Pinia](https://img.shields.io/badge/Pinia-FFD859?style=for-the-badge&logo=pinia&logoColor=black)
-![Vue Router](https://img.shields.io/badge/Vue_Router-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-### **⚛️ React Ecosystem**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-
-### **🎨 Styling & UI**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white)
 
-### **⚙️ Backend & APIs**
+### **⚙️ Backend**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### **📝 Languages & Core**
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### **🗄️ Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
-### **🛠️ Tools & Dev Experience**
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black)
-
-### **🧪 Testing & Quality**
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+### **🧪 Quality Assurance**
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 
-### **☁️ Deploy & DevOps**
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### **🛠️ Tools & DevOps**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **📊 Extras**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)
 
 </div>
 
@@ -80,12 +68,12 @@
 
 <div align="center">
 
-| 🎯 **Projeto** | 📋 **Descrição** | 🛠️ **Tech Stack** | 🔗 **Link** |
-|:-------------|:----------------|:-----------------|:----------|
-| **🛍️ Beauty Glow** | Loja virtual de cosméticos | `HTML` `CSS` `JavaScript` | [🔗 Ver](https://github.com/KarolNutty/Beauty-Glow) |
-| **🐾 API de Pets** | API RESTful para gerenciamento de pets | `Node.js` `Express` `JavaScript` | [🔗 Ver](https://github.com/KarolNutty/api-de-pets) |
-| **🤖 BotGroqAI** | ChatBot inteligente com Groq AI + Streamlit | `Python` `Groq` `Streamlit` | [🔗 Ver](https://github.com/KarolNutty/BotGroqAI) |
-| **🌱 Ecotrack** | istema completo para monitoramento e gestão de coleta de resíduos recicláveis. | `JavaScript` `HTML5` `CSS3` `Node.js` | [🔗 Ver](https://github.com/KarolNutty/ecotrack) |
+| 🎯 **Projeto** | 📋 **Descrição** | 🛠️ **Stack** | 🔗 **Link** |
+|:-------------|:----------------|:-------------|:----------|
+| **🐾 Petfy API** | API RESTful completa para gestão de pets com autenticação e validações | `Node.js` `Express` `MongoDB` | [🔗 Ver](https://github.com/KarolNutty/Petfy-API) |
+| **🧪 Playwright Gherkin Pets** | Testes automatizados E2E usando Playwright + BDD/Gherkin | `Playwright` `Cucumber` `JavaScript` | [🔗 Ver](https://github.com/KarolNutty/playwright-gherkin-pets) |
+| **🐕 API de Pets** | Sistema backend para gerenciamento de pets | `Node.js` `Express` `JavaScript` | [🔗 Ver](https://github.com/KarolNutty/api-de-pets) |
+| **🌱 Ecotrack** | Sistema completo para monitoramento e gestão de coleta de resíduos recicláveis | `JavaScript` `Node.js` `HTML5` `CSS3` | [🔗 Ver](https://github.com/KarolNutty/ecotrack) |
 
 </div>
 
@@ -103,61 +91,80 @@
 
 ---
 
-## 🎯 **Habilidades**
+## 💼 **Experiência & Habilidades**
 
 ```javascript
-class KarolineSkills {
-  constructor() {
-    this.vueKnowledge = [
-      "Vue 3 Composition API", "Vue Router", "State Management (Pinia)",
-      "Componentes Reutilizáveis", "Diretivas Customizadas"
+const karolineSkills = {
+  frontend: {
+    frameworks: ["Vue 3", "React", "Next.js"],
+    styling: ["Tailwind CSS", "SASS", "CSS3"],
+    core: ["JavaScript", "TypeScript", "HTML5"],
+    concepts: ["Responsive Design", "Component Architecture", "State Management"]
+  },
+  
+  backend: {
+    languages: ["Node.js", "Python", "JavaScript"],
+    frameworks: ["Express", "Streamlit"],
+    databases: ["MongoDB", "PostgreSQL", "MySQL", "SQL"],
+    concepts: ["RESTful APIs", "Authentication", "Data Validation"]
+  },
+  
+  qualityAssurance: {
+    automation: ["Playwright", "Cypress", "Jest"],
+    methodologies: ["BDD/Gherkin", "Functional Testing", "Non-Functional Testing"],
+    tools: ["Postman", "API Testing"],
+    practices: [
+      "Requirements Analysis",
+      "Test Case Creation",
+      "API Testing",
+      "E2E Testing"
     ]
-    
-    this.reactKnowledge = [
-      "React Hooks", "React Router", "Context API",
-      "Componentes Funcionais"
-    ]
-    
-    this.backendSkills = [
-      "Node.js", "Express", "APIs RESTful", 
-      "Integração Frontend/Backend"
-    ]
-    
-    this.uiSkills = [
-      "Responsive Design", "CSS/SASS", "Tailwind CSS",
-      "HTML Semântico", "Acessibilidade Básica"
-    ]
-    
-    this.currentFocus = "Construindo interfaces funcionais e aprendendo sempre"
-  }
+  },
+  
+  methodologies: ["Scrum", "Agile Development"],
+  
+  currentFocus: "Building complete solutions with quality assurance mindset"
 }
-
-// Em constante evolução 💚
-const karoline = new KarolineSkills()
 ```
 
 ---
 
-## 🌟 **Visão & Missão**
+## 🎯 **Áreas de Atuação**
 
 <div align="center">
 
-### 💡 **"Construindo interfaces funcionais e aprendendo todos os dias"**
-
-> Estou em constante evolução no mundo do desenvolvimento frontend. Trabalho principalmente com **Vue.js** (onde tenho mais experiência) e também com **React**. Meu objetivo é criar interfaces **responsivas**, **funcionais** e com **boa experiência de usuário**, sempre aprendendo e melhorando minhas habilidades em cada projeto.
+| 💻 **Frontend** | ⚙️ **Backend** | 🧪 **QA** |
+|:---------------|:--------------|:---------|
+| Interfaces responsivas | APIs RESTful | Testes automatizados |
+| Vue.js & React | Node.js & Express | Playwright & Cucumber |
+| Component design | Database design | API testing |
+| State management | Authentication | Test case creation |
+| Tailwind & SASS | Data validation | Requirements analysis |
 
 </div>
 
 ---
 
-## 📚 **Aprendendo Atualmente**
+## 🌟 **O que eu faço**
 
-- 💚 **Vue 3** - Aprofundando na Composition API e Composables
-- ⚛️ **React** - Expandindo conhecimento em Hooks e Context API
-- 🎨 **Tailwind CSS** - Estilização moderna e responsiva
-- 📦 **TypeScript** - Tipagem estática para JavaScript
-- 🔄 **APIs REST** - Integração frontend/backend
-- ♿ **Acessibilidade Web** - Interfaces mais inclusivas
+<div align="center">
+
+### 💡 **"Construindo soluções completas com foco em qualidade"**
+
+> Desenvolvo aplicações fullstack utilizando as melhores práticas de desenvolvimento. Trabalho com **Vue.js** e **React** no frontend, **Node.js** e **Python** no backend, sempre aplicando conceitos de **Quality Assurance** para garantir código confiável e testável.
+
+</div>
+
+---
+
+## 📚 **Aprendizado Contínuo**
+
+- 🎨 **Vue 3 & React** - Desenvolvimento de interfaces modernas
+- ⚙️ **Node.js** - Construção de APIs robustas
+- 🧪 **Test Automation** - Playwright, Cypress e testes de API
+- 🗄️ **Databases** - SQL e NoSQL
+- 📐 **Design Patterns** - Clean Code e boas práticas
+- 🔄 **DevOps** - Docker e CI/CD
 
 ---
 
@@ -165,14 +172,14 @@ const karoline = new KarolineSkills()
 
 <div align="center">
 
-| 🎯 **Foco** | 📝 **Descrição** |
+| 🎯 **Aspecto** | 📝 **Descrição** |
 |:----------------|:----------------|
-| **💚 Vue.js** | Mais experiência, primeira opção |
-| **⚛️ React** | Conhecimento sólido, segunda opção |
-| **📱 Responsivo** | Design que funciona em todos os dispositivos |
-| **🎨 UI/UX** | Interfaces limpas e intuitivas |
-| **🔄 Backend** | Node.js e APIs REST |
-| **📚 Aprendizado** | Sempre buscando evoluir |
+| **💻 Fullstack** | Do frontend ao backend, sempre focando em soluções completas |
+| **🧪 Quality First** | Testes e qualidade como parte do desenvolvimento |
+| **📱 Responsive** | Aplicações que funcionam em qualquer dispositivo |
+| **🔄 Agile** | Trabalhando com metodologias ágeis (Scrum) |
+| **📚 Learning** | Em constante evolução e aprendizado |
+| **🤝 Collaboration** | Aberta a colaborações e novos desafios |
 
 </div>
 
@@ -187,7 +194,7 @@ const karoline = new KarolineSkills()
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu-email@exemplo.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-42D392?style=for-the-badge&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app)
 
-**💬 Aberta para colaborações e oportunidades de aprendizado!**
+**💬 Aberta para oportunidades e colaborações!**
 
 </div>
 
@@ -195,7 +202,7 @@ const karoline = new KarolineSkills()
 
 <div align="center">
 
-### ⚡ **"Learn. Code. Grow."** ⚡
+### ⚡ **"Code. Test. Deploy."** ⚡
 
 ![Profile Views](https://komarev.com/ghpvc/?username=KarolNutty&color=42D392&style=for-the-badge)
 
