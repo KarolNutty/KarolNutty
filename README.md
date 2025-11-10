@@ -1,4 +1,4 @@
-# 🤖 Karoline Silva | AI Developer
+# 🤖 Karoline | AI Developer
 
 <div align="center">
   
