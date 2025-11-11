@@ -1,8 +1,8 @@
-# 👩‍💻 Karoline Silva | Fullstack Developer
+# 👩‍💻 Karoline | Fullstack Developer
 
 <div align="center">
 
-**Desenvolvendo soluções completas • Frontend • Backend • QA**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Frontend+%7C+Backend+%7C+QA;Vue.js+•+React+•+Node.js;Building+Complete+Solutions)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karoline-silva-8070a634b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/KarolNutty)
