@@ -1,8 +1,8 @@
-# 🤖 Karoline | AI Engineer & Backend Developer
+# 🤖 Karoline | AI Developer & Backend Developer
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D7BEA&center=true&vCenter=true&width=550&lines=AI+Engineer+%F0%9F%A7%A0%E2%9C%A8;Building+Intelligent+Systems;Python+%E2%80%A2+LangChain+%E2%80%A2+FastAPI;Backend+%7C+Machine+Learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D7BEA&center=true&vCenter=true&width=550&lines=AI+Developer+%F0%9F%A7%A0%E2%9C%A8;Building+Intelligent+Systems;Python+%E2%80%A2+LangChain+%E2%80%A2+FastAPI;Backend+%7C+Machine+Learning)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karoline-silva-8070a634b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KarolNutty)
