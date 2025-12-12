@@ -1,12 +1,12 @@
-# 🎨 Karoline | Fullstack Developer
+# 🤖 Karoline | AI Engineer & Backend Developer
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=550&lines=Frontend+Developer+%E2%9C%A8;Building+Interactive+Experiences;Vue.js+•+React+•+Games+🎮;Fullstack+%7C+UI%2FUX+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=9D7BEA&center=true&vCenter=true&width=550&lines=AI+Engineer+%F0%9F%A7%A0%E2%9C%A8;Building+Intelligent+Systems;Python+%E2%80%A2+LangChain+%E2%80%A2+FastAPI;Backend+%7C+Machine+Learning)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karoline-silva-8070a634b/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/KarolNutty)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B9D?style=flat-square&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-9D7BEA?style=flat-square&logo=vercel&logoColor=white)](https://seu-portfolio.vercel.app)
 
 </div>
 
@@ -14,76 +14,114 @@
 
 ## 🌸 Sobre Mim
 
-Olá! Sou desenvolvedora fullstack com foco em **frontend** e paixão por criar experiências interativas. Atualmente estudando Engenharia de Software e explorando o mundo de desenvolvimento de jogos infantis e aplicações web lúdicas.
+Olá! Sou engenheira de IA e desenvolvedora backend apaixonada por **inteligência artificial** e sistemas inteligentes. Estudante de Engenharia de Software com foco em ML/AI, construindo soluções que transformam dados em decisões inteligentes.
 
-💖 Adoro transformar designs em código e criar interfaces que encantam  
-🎮 Interesse especial em game dev e aplicações interativas para crianças  
-✨ Sempre buscando aprender e construir coisas legais
+🧠 Especializada em LLMs, RAG e agentes autônomos  
+💜 Criando aplicações de IA do zero com Python e frameworks modernos  
+✨ Transformando complexidade em soluções elegantes e escaláveis
 
 ---
 
-## 💻 Tecnologias
+## 💻 Stack Tecnológica
 
 <div align="center">
 
-### Frontend ✨
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### AI & Machine Learning 🤖
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![LangFlow](https://img.shields.io/badge/LangFlow-9D7BEA?style=for-the-badge&logo=flow&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B9D?style=for-the-badge&logo=graphql&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=llama&logoColor=white)
 
-### Styling 🎨
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+### Data Science 📊
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Backend & Tools ⚙️
+### Backend & APIs 💜
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Databases 🗄️
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### DevOps & Cloud ☁️
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Testing & QA 🧪
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### LLM Models 🧠
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-9D7BEA?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=llama&logoColor=white)
 
 </div>
 
 ---
 
-## 🎮 Projetos
+## 🚀 Projetos em Destaque
 
-### 🐾 [Petfy API](https://github.com/KarolNutty/Petfy-API)
-API RESTful para gestão de pets com autenticação  
-`Node.js` • `Express` • `MongoDB`
+### 🤖 [Nome do Projeto IA](https://github.com/KarolNutty/projeto-1)
+Sistema RAG com LangChain para consulta inteligente de documentos  
+`Python` • `LangChain` • `FastAPI` • `PostgreSQL`
 
-### 🧪 [Playwright Gherkin Pets](https://github.com/KarolNutty/playwright-gherkin-pets)
-Testes automatizados E2E com BDD/Gherkin  
-`Playwright` • `Cucumber` • `JavaScript`
+### 💬 [Chatbot Inteligente](https://github.com/KarolNutty/projeto-2)
+Agente conversacional com memória e contexto usando LangGraph  
+`LangGraph` • `OpenAI` • `Supabase` • `Docker`
 
-### 🐕 [API de Pets](https://github.com/KarolNutty/api-de-pets)
-Backend para gerenciamento de pets  
-`Node.js` • `Express`
+### 📊 [Pipeline de Análise](https://github.com/KarolNutty/projeto-3)
+Pipeline ETL com análise de dados e ML predictions  
+`Pandas` • `NumPy` • `FastAPI` • `MySQL`
 
-### 🌱 [Ecotrack](https://github.com/KarolNutty/ecotrack)
-Sistema de gestão de coleta de resíduos  
-`JavaScript` • `Node.js` • `HTML/CSS`
+### 🔍 [API de Busca Semântica](https://github.com/KarolNutty/projeto-4)
+API de busca vetorial com embeddings e LlamaIndex  
+`LlamaIndex` • `Flask` • `PostgreSQL` • `Docker`
 
 ---
 
-## 🌈 Interesses
+## 🎯 Áreas de Expertise
 
-```javascript
-const karoline = {
-  frontend: ["Vue.js", "React", "Interfaces Interativas"],
-  backend: ["Node.js", "APIs REST", "Databases"],
-  passion: ["Game Development", "UI/UX", "Jogos Infantis"],
-  learning: ["Unity Basics", "Game Design", "Animações Web"],
-  loves: "Criar experiências que fazem as pessoas sorrirem ✨"
+```python
+karoline = {
+    "ai_engineering": [
+        "LLM Applications",
+        "RAG Systems", 
+        "Autonomous Agents",
+        "Prompt Engineering"
+    ],
+    "backend": [
+        "FastAPI",
+        "Flask",
+        "RESTful APIs",
+        "Microservices"
+    ],
+    "data": [
+        "Pandas",
+        "NumPy",
+        "Data Analysis",
+        "ETL Pipelines"
+    ],
+    "frameworks": [
+        "LangChain",
+        "LangFlow",
+        "LangGraph",
+        "LlamaIndex"
+    ],
+    "databases": [
+        "PostgreSQL",
+        "Supabase",
+        "MySQL",
+        "Vector DBs"
+    ],
+    "devops": ["Docker", "GCP", "CI/CD"],
+    "passion": "Construir sistemas que aprendem e evoluem 🧠✨"
 }
 ```
 
@@ -93,17 +131,29 @@ const karoline = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarolNutty&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0D1117)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarolNutty&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9D7BEA&icon_color=B794F6&text_color=A0AEC0)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolNutty&layout=compact&theme=material-palenight&hide_border=true&bg_color=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KarolNutty&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=9D7BEA&text_color=A0AEC0)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarolNutty&theme=midnight-purple&hide_border=true&background=0D1117&ring=9D7BEA&fire=FF6B9D&currStreakLabel=9D7BEA)
 
 </div>
 
 ---
 
-## 💌 Vamos Conversar?
+## 🌟 Atualmente Explorando
 
-Sempre aberta para colaborações, especialmente em projetos criativos e jogos! 🎮✨
+- 🔬 Agentes autônomos com LangGraph e multi-agent systems
+- 🎨 Fine-tuning de modelos para casos de uso específicos
+- 🚀 Otimização de performance em aplicações LLM
+- 💾 Vector databases e semantic search avançado
+- ☁️ Deploy de modelos em produção com GCP
+
+---
+
+## 💌 Vamos Conectar?
+
+Sempre aberta para colaborar em projetos de IA, discutir arquiteturas de sistemas inteligentes ou trocar experiências sobre ML/AI! 🤖💜
 
 **Email:** seu-email@exemplo.com
 
@@ -111,8 +161,8 @@ Sempre aberta para colaborações, especialmente em projetos criativos e jogos! 
 
 <div align="center">
 
-✨ **"Creating joy, one line of code at a time"** ✨
+✨ **"Building the future with AI, one model at a time"** ✨
 
-![Profile Views](https://komarev.com/ghpvc/?username=KarolNutty&color=FF6B9D&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=KarolNutty&color=9D7BEA&style=flat-square)
 
 </div>
