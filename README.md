@@ -155,7 +155,7 @@ karoline = {
 
 Sempre aberta para colaborar em projetos de IA, discutir arquiteturas de sistemas inteligentes ou trocar experiências sobre ML/AI! 🤖💜
 
-**Email:** seu-email@exemplo.com
+**Email:** karoline.dev22@gmail.com
 
 ---
 
