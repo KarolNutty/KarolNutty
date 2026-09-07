@@ -16,19 +16,29 @@ sabendo como ela vai ser consumida, porque já estive do outro lado dela.
 ---
 
 ## Backend
-
-### [Jungle Apostas](https://github.com/KarolineCodes/Jungle-API-) · Go
-
-API de apostas com **transação e concorrência levadas a sério**: o débito da
-carteira e a criação da aposta acontecem no mesmo commit, e `SELECT ... FOR
-UPDATE` impede que duas requisições simultâneas do mesmo jogador gastem o mesmo
-saldo duas vezes.
-
-Dinheiro em inteiro de centavos, DDD em três camadas com o domínio sem
-dependência de infraestrutura, WebSocket para o resultado da rodada em tempo
-real, e eventos publicados só depois do commit.
-
-`Go` · `Uber Fx` · `PostgreSQL` · `WebSocket` · `AWS (SNS, SQS, S3, Secrets Manager)` · `Docker`
+### [Jungle Apostas](https://github.com/KarolineCodes/Jungle-API-) + [Jungle Limites](https://github.com/KarolineCodes/jungle-limites) · Go
+ 
+Dois serviços conversando por gRPC. O de apostas expõe REST e WebSocket; o de
+limites responde uma pergunta só, **esse jogador pode fazer essa aposta agora**,
+verificando limite diário, velocidade e autoexclusão.
+ 
+Débito da carteira e criação da aposta acontecem no mesmo commit, e
+`SELECT ... FOR UPDATE` impede que duas requisições simultâneas do mesmo jogador
+gastem o mesmo saldo duas vezes. A verificação de limites roda **fora da
+transação**: chamada de rede com transação aberta segura conexão do pool e lock
+de linha, e um serviço lento vira banco travado.
+ 
+A decisão que vale discutir é o ***fail closed***: com o serviço de limites fora
+do ar, a aposta é **recusada**. O reflexo normal seria seguir em frente para não
+derrubar o produto, mas entre as regras verificadas está a autoexclusão —
+aceitar aposta de quem se autoexcluiu é falha regulatória, não degradação
+aceitável. Tem teste provando o comportamento.
+ 
+Domínio sem dependência de infraestrutura, dinheiro em inteiro de centavos,
+eventos publicados só depois do commit, e um documento explicando o porquê de
+cada decisão.
+ 
+`Go` · `gRPC` · `Protocol Buffers` · `Uber Fx` · `PostgreSQL` · `WebSocket` · `AWS (SNS, SQS, S3, Secrets Manager)` · `Docker`
 
 ### [E-mail Dispatch](https://github.com/KarolineCodes/Email-Dispatch) · Go
 
