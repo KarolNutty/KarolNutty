@@ -30,7 +30,7 @@ real, e eventos publicados só depois do commit.
 
 `Go` · `Uber Fx` · `PostgreSQL` · `WebSocket` · `AWS (SNS, SQS, S3, Secrets Manager)` · `Docker`
 
-### [E-mail Dispatch](https://github.com/KarolineCodes/emaildispatch) · Go
+### [E-mail Dispatch](https://github.com/KarolineCodes/Email-Dispatch) · Go
 
 Disparo de e-mail em massa com IP e DKIM próprios. Arquitetura hexagonal e
 **núcleo sem dependência externa**, multi-cliente, com aquecimento de IP.
