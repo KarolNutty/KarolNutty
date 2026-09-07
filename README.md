@@ -62,7 +62,7 @@ ou vulnerabilidade alta.
 
 `Fastify` · `PostgreSQL` · `JWT` · `Zod` · `Vitest` · `React`
 
-### [E-mail Dispatch](https://github.com/KarolineCodes/emaildispatch) · Go
+### [E-mail Dispatch](https://github.com/KarolineCodes/Email-Dispatch) · Go
 
 Disparo de e-mail em massa com IP e DKIM próprios. Arquitetura hexagonal com
 **núcleo sem nenhuma dependência externa**, multi-cliente, com aquecimento de IP
